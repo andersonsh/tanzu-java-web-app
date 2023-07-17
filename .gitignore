@@ -8,7 +8,7 @@ target/
 !gradle/wrapper/gradle-wrapper.jar
 bin/
 
-# maven-wrapper.jar
+# maven-wrapper.jar 
 # **/maven-wrapper.jar 
 
 ### STS ### 
